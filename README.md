@@ -62,6 +62,9 @@ By the end of this intensive, I aim to:
 - [ ] **Day 5:** Production Deployment & Multi-Agent Systems
 
 ---
+## certificate
+<img width="480" height="296" alt="5-Day AI Agents Intensive Course with Google" src="https://github.com/user-attachments/assets/23efd6b2-4b19-4e59-9109-4c09008549d1" />
+
 
 ## 🏷️ Tags
 `#AIAgents` `#GenerativeAI` `#Kaggle` `#GoogleAI` `#LLM` `#MachineLearning` `#AIEngineering`
